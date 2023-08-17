@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: dodgerblue;
+}
+
+li {
+  list-style: none;
+}
+
+.inputData {
+  margin: 10px;
+}
+
+.inputFields {
+  margin-right: 100px;
+  margin-left: 10px;
+}
+
+.addButton {
+  margin-top: 100px;
+}
+.display-card{
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 600px;
+}
+.card{
+  text-align: left;
+  margin: 0 auto;
+  padding: 10px 50px;
+  width: 600px;
+}
+.delete{
+  margin-bottom: 10px !important;
+}
+.margin-right{
+  margin: 10px !important;
+}
